@@ -18,3 +18,4 @@ EXPOSE 4000
 
 # Command to run the server
 CMD ["node", "index.js"]
+
